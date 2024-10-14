@@ -1,6 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Urvil</h1>
 <br>
+
 ### I'm a tech enthusiast, focusing on:
 - **Computer Vision** : Exploring ways to interpret and analyze visual data for the work optimization.
 - **Natural Language Processing** : Developin systems that understand and generate human language.
