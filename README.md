@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffafcc,100:a3c4f3&height=250&section=header&text=Hey,%20I'm%20Urvil!%20👋&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Visionary%20Builder&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20Vision%20Architect&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on **Agentic AI**, **Vision AI**, and **Generative AI** projects.
 - 🌱 Constantly learning **MLOps**, **NLP**, and **Cloud AI Architectures**.
 - 👯 Looking to collaborate on **AI-first innovations** and **open-source contributions**.
-- 💬 Ask me about **Computer Vision**, **NLP**, **Generative Agents**, or **Scalable AI Systems**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-link/)** | **[Portfolio](https://your-portfolio-link/)**
 - ⚡ Fun fact: I love **music**, **cooking**, and experimenting with **new frameworks**.
 
@@ -29,7 +28,7 @@
   </tr>
   <tr>
     <td><b>Generative AI</b></td>
-    <td>Designing agentic workflows, multi-modal bots, and content generation engines.</td>
+    <td>Designing agentic workflows, multimodal bots, and content generation engines.</td>
   </tr>
   <tr>
     <td><b>MLOps</b></td>
@@ -43,15 +42,12 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
-  <a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
 </p>
 
 ---
@@ -59,36 +55,36 @@
 # 🚀 Platforms & Frameworks
 
 <div align="center">
-  
+
 <table>
   <tr>
     <td align="center" width="150">
       <a href="https://livekit.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LiveKit_Logo.png" alt="LiveKit" width="100" height="40" /><br />
+        <img src="https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png" alt="LiveKit" width="80" height="50" /><br />
         <sub><b>LiveKit</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.langchain.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/images/langchain-logo.png" alt="LangChain" width="100" height="40" /><br />
+        <img src="https://avatars.githubusercontent.com/u/139945000?s=200&v=4" alt="LangChain" width="50" height="50"/><br />
         <sub><b>LangChain</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://langgraph.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/langgraph-ai/langgraph/main/docs/static/logo.png" alt="LangGraph" width="100" height="40" /><br />
+        <img src="https://avatars.githubusercontent.com/u/152962153?s=200&v=4" alt="LangGraph" width="50" height="50"/><br />
         <sub><b>LangGraph</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://crewai.com/" target="_blank">
-        <img src="https://crewai.com/favicon.png" alt="CrewAI" width="40" height="40" /><br />
+        <img src="https://crewai.com/_next/static/media/logo.1d8b1bb9.svg" alt="CrewAI" width="80" height="50" /><br />
         <sub><b>CrewAI</b></sub>
       </a>
     </td>
   </tr>
 </table>
-  
+
 </div>
 
 ---
@@ -109,7 +105,7 @@
 
 ---
 
-# 🎵 Fun Zone (Optional)
+# 🎵 Fun Zone
 
 ```text
-"Work hard in silence; let your success be your noise." 🎶
+"Strive not to be a success, but rather to be of value." — Albert Einstein
