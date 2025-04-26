@@ -60,7 +60,7 @@
   <tr>
     <td align="center" width="150">
       <a href="https://livekit.io/" target="_blank">
-        <img src="[https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png](https://brandfetch.com/livekit.io?view=library&library=default&collection=logos&asset=idf_Enmws6&utm_source=https%253A%252F%252Fbrandfetch.com%252Flivekit.io&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="LiveKit" width="80" height="50" /><br />
+        <img src="https://brandfetch.com/livekit.io?view=library&library=default&collection=logos&asset=idf_Enmws6&utm_source=https%253A%252F%252Fbrandfetch.com%252Flivekit.io&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="LiveKit" width="80" height="50" /><br />
         <sub><b>LiveKit</b></sub>
       </a>
     </td>
@@ -89,23 +89,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-# 🎵 Fun Zone
 
 ```text
 "Strive not to be a success, but rather to be of value." — Albert Einstein
