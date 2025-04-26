@@ -1,7 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20Vision%20Architect&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:80d6e5,100:b3e5fc&height=250&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20MLOPS&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
+
 
 ---
 
@@ -93,6 +94,22 @@
 > — *Albert Einstein*
 
 
+<!-- Footer Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient" alt="footer"/>
+  <hr style="width: 80%; border: 1px solid #e0e0e0; margin-top: 30px;">
+  <p align="center" style="font-size: 14px; color: #4f4f4f;">
+    Made with ❤️ by Urvil | Connect with me:
+    <a href="https://www.linkedin.com/in/urvil/" target="_blank" style="text-decoration: none; color: #0073b1;">
+      LinkedIn
+    </a> |
+    <a href="https://github.com/urvil" target="_blank" style="text-decoration: none; color: #24292f;">
+      GitHub
+    </a> |
+    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #d14836;">
+      Email
+    </a>
+  </p>
+  <p align="center" style="font-size: 12px; color: #a0a0a0;">
+    * Designed with a focus on simplicity and elegance. 💡
+  </p>
 </p>
