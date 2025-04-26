@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Agentic AI**, **Vision AI**, and **Generative AI** projects.
 - 🌱 Constantly learning **MLOps**, **NLP**, and **Cloud AI Architectures**.
 - 👯 Looking to collaborate on **AI-first innovations** and **open-source contributions**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-link/)** | **[Portfolio](https://your-portfolio-link/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/urvil/)** | **[Portfolio](https://your-portfolio-link/)**
 - ⚡ Fun fact: I love **music**, **cooking**, and experimenting with **new frameworks**.
 
 ---
@@ -60,7 +60,7 @@
   <tr>
     <td align="center" width="150">
       <a href="https://livekit.io/" target="_blank">
-        <img src="https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png" alt="LiveKit" width="80" height="50" /><br />
+        <img src="[https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png](https://brandfetch.com/livekit.io?view=library&library=default&collection=logos&asset=idf_Enmws6&utm_source=https%253A%252F%252Fbrandfetch.com%252Flivekit.io&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="LiveKit" width="80" height="50" /><br />
         <sub><b>LiveKit</b></sub>
       </a>
     </td>
