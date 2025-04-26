@@ -40,18 +40,19 @@ I'm a tech enthusiast with a passion for building intelligent systems that push 
 ## 🌐 Platforms & Frameworks I Work With
 <p align="center">
   <a href="https://livekit.io/" target="_blank">
-    <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=for-the-badge" alt="LiveKit Badge"/>
-  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LiveKit_Logo.png" alt="LiveKit" width="100" height="40"/>
+  </a>
   <a href="https://www.langchain.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-006400?style=for-the-badge" alt="LangChain Badge"/>
-  </a> 
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/images/langchain-logo.png" alt="LangChain" width="100" height="40"/>
+  </a>
   <a href="https://langgraph.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-800080?style=for-the-badge" alt="LangGraph Badge"/>
-  </a> 
+    <img src="https://raw.githubusercontent.com/langgraph-ai/langgraph/main/docs/static/logo.png" alt="LangGraph" width="100" height="40"/>
+  </a>
   <a href="https://crewai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge" alt="CrewAI Badge"/>
-  </a> 
+    <img src="https://crewai.com/favicon.png" alt="CrewAI" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <br>
