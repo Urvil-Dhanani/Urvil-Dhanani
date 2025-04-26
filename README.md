@@ -39,11 +39,20 @@ I'm a tech enthusiast with a passion for building intelligent systems that push 
 
 ## 🌐 Platforms & Frameworks I Work With
 <p align="center">
-  <a href="https://livekit.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/83118629?s=200&v=4" alt="LiveKit" width="40" height="40"/></a>  
-  <a href="https://www.langchain.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139393345?s=200&v=4" alt="LangChain" width="40" height="40"/></a>  
-  <a href="https://langgraph.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/165612287?s=200&v=4" alt="LangGraph" width="40" height="40"/></a>  
-  <a href="https://crewai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/169354109?s=200&v=4" alt="CrewAI" width="40" height="40"/></a>  
+  <a href="https://livekit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=for-the-badge" alt="LiveKit Badge"/>
+  </a> 
+  <a href="https://www.langchain.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-006400?style=for-the-badge" alt="LangChain Badge"/>
+  </a> 
+  <a href="https://langgraph.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-800080?style=for-the-badge" alt="LangGraph Badge"/>
+  </a> 
+  <a href="https://crewai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge" alt="CrewAI Badge"/>
+  </a> 
 </p>
+
 
 <br>
 
