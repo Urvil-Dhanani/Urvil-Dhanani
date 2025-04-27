@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:80d6e5,100:b3e5fc&height=200&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20MLOPS&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:80d6e5,100:b3e5fc&height=200&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20INNOVATOR%20%7C%20MLOPS&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
 ---
@@ -22,12 +22,12 @@ A curious AI Engineer deeply immersed in the exciting realms of **Agentic AI**, 
     <td>Extracting insights 📊 and automations ⚙️ from images & videos 🎬.</td>
   </tr>
   <tr>
-    <td><b><ins>🗣️ Natural Language Processing</ins></b></td>
+    <td><b><ins>🗣️ NLP </ins></b></td>
     <td>Building systems that understand 🤔, generate ✍️, and reason with 🧠 language.</td>
   </tr>
   <tr>
     <td><b><ins>⚙️ MLOps</ins></b></td>
-    <td>Automating ML pipelines 🚀, model deployment ☁️, and monitoring 監視 with DevOps best practices.</td>
+    <td>Automating ML pipelines 🚀, model deployment ☁️, and monitoring with DevOps best practices.</td>
   </tr>
 </table>
 
@@ -46,48 +46,3 @@ A curious AI Engineer deeply immersed in the exciting realms of **Agentic AI**, 
 </p>
 
 ---
-
-# 🚀 Platforms & Frameworks
-
-<div align="center">
-  <a href="https://livekit.io/" target="_blank">
-    <img src="https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png" alt="LiveKit" width="80" height="50" /><br />
-    <sub><b>LiveKit</b></sub>
-  </a>
-  <a href="https://www.langchain.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/139945000?s=200&v=4" alt="LangChain" width="50" height="50"/><br />
-    <sub><b>LangChain</b></sub>
-  </a>
-  <a href="https://langgraph.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/152962153?s=200&v=4" alt="LangGraph" width="50" height="50"/><br />
-    <sub><b>LangGraph</b></sub>
-  </a>
-  <a href="https://crewai.com/" target="_blank">
-    <img src="https://crewai.com/_next/static/media/logo.1d8b1bb9.svg" alt="CrewAI" width="80" height="50" /><br />
-    <sub><b>CrewAI</b></sub>
-  </a>
-</div>
-
----
-
-> 💡 *"Strive not to be a success, but rather to be of value."*
-> — *Albert Einstein*
-
-<p align="center">
-  <hr style="width: 80%; border: 1px solid #e0e0e0; margin-top: 30px;">
-  <p align="center" style="font-size: 14px; color: #4f4f4f;">
-    Made with ❤️ by Urvil | Connect with me:
-    <a href="https://www.linkedin.com/in/urvil/" target="_blank" style="text-decoration: none; color: #0073b1;">
-      LinkedIn
-    </a> |
-    <a href="https://github.com/urvil" target="_blank" style="text-decoration: none; color: #24292f;">
-      GitHub
-    </a> |
-    <a href="mailto:your-email@example.com" style="text-decoration: none; color: #d14836;">
-      Email
-    </a>
-  </p>
-  <p align="center" style="font-size: 12px; color: #a0a0a0;">
-    * Designed with a focus on simplicity and elegance. 💡
-  </p>
-</p>
