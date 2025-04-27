@@ -1,18 +1,12 @@
-<!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:80d6e5,100:b3e5fc&height=250&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20MLOPS&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:80d6e5,100:b3e5fc&height=200&section=header&text=Hey,%20I'm%20Urvil!%20🚀&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Innovator%20%7C%20MLOPS&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
-
 
 ---
 
 # 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Agentic AI**, **Vision AI**, and **Generative AI** projects.
-- 🌱 Constantly learning **MLOps**, **NLP**, and **Cloud AI Architectures**.
-- 👯 Looking to collaborate on **AI-first innovations** and **open-source contributions**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/urvil/)** | **[Portfolio](https://your-portfolio-link/)**
-- ⚡ Fun fact: I love **music**, **cooking**, and experimenting with **new frameworks**.
+A curious AI Engineer deeply immersed in the exciting realms of **Agentic AI**, **Vision AI**, and **Generative AI**. I'm on a continuous learning journey, currently exploring the intricacies of **MLOps**, **NLP**, and **Cloud AI Architectures**. I'm passionate about collaborating on **AI-first innovations** and contributing to **open-source projects**. Beyond the code, I enjoy the rhythm of music, the art of cooking, and the thrill of experimenting with new tech frameworks. Let's connect and build something amazing! You can reach me on [LinkedIn](https://www.linkedin.com/in/urvil/) or check out my [Portfolio](https://your-portfolio-link/).
 
 ---
 
@@ -20,20 +14,20 @@
 
 <table>
   <tr>
-    <td><b>Generative AI</b></td>
-    <td>Designing agentic workflows, multimodal bots, and content generation engines.</td>
+    <td><b><ins>💡 Generative AI</ins></b></td>
+    <td>Designing agentic workflows 🤖, multimodal bots 🗣️, and content generation engines ✍️.</td>
   </tr>
   <tr>
-    <td><b>Computer Vision</b></td>
-    <td>Extracting insights and automations from images & videos.</td>
+    <td><b><ins>👁️‍🗨️ Computer Vision</ins></b></td>
+    <td>Extracting insights 📊 and automations ⚙️ from images & videos 🎬.</td>
   </tr>
   <tr>
-    <td><b>Natural Language Processing</b></td>
-    <td>Building systems that understand, generate, and reason with language.</td>
+    <td><b><ins>🗣️ Natural Language Processing</ins></b></td>
+    <td>Building systems that understand 🤔, generate ✍️, and reason with 🧠 language.</td>
   </tr>
   <tr>
-    <td><b>MLOps</b></td>
-    <td>Automating ML pipelines, model deployment, and monitoring with DevOps best practices.</td>
+    <td><b><ins>⚙️ MLOps</ins></b></td>
+    <td>Automating ML pipelines 🚀, model deployment ☁️, and monitoring 監視 with DevOps best practices.</td>
   </tr>
 </table>
 
@@ -56,45 +50,29 @@
 # 🚀 Platforms & Frameworks
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://livekit.io/" target="_blank">
-        <img src="https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png" alt="LiveKit" width="80" height="50" /><br />
-        <sub><b>LiveKit</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.langchain.dev/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/139945000?s=200&v=4" alt="LangChain" width="50" height="50"/><br />
-        <sub><b>LangChain</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://langgraph.dev/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/152962153?s=200&v=4" alt="LangGraph" width="50" height="50"/><br />
-        <sub><b>LangGraph</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://crewai.com/" target="_blank">
-        <img src="https://crewai.com/_next/static/media/logo.1d8b1bb9.svg" alt="CrewAI" width="80" height="50" /><br />
-        <sub><b>CrewAI</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://livekit.io/" target="_blank">
+    <img src="https://seeklogo.com/images/L/livekit-logo-4E10E6509A-seeklogo.com.png" alt="LiveKit" width="80" height="50" /><br />
+    <sub><b>LiveKit</b></sub>
+  </a>
+  <a href="https://www.langchain.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139945000?s=200&v=4" alt="LangChain" width="50" height="50"/><br />
+    <sub><b>LangChain</b></sub>
+  </a>
+  <a href="https://langgraph.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/152962153?s=200&v=4" alt="LangGraph" width="50" height="50"/><br />
+    <sub><b>LangGraph</b></sub>
+  </a>
+  <a href="https://crewai.com/" target="_blank">
+    <img src="https://crewai.com/_next/static/media/logo.1d8b1bb9.svg" alt="CrewAI" width="80" height="50" /><br />
+    <sub><b>CrewAI</b></sub>
+  </a>
 </div>
 
 ---
 
-> 💡 *"Strive not to be a success, but rather to be of value."*  
+> 💡 *"Strive not to be a success, but rather to be of value."*
 > — *Albert Einstein*
 
-
-<!-- Footer Section -->
 <p align="center">
   <hr style="width: 80%; border: 1px solid #e0e0e0; margin-top: 30px;">
   <p align="center" style="font-size: 14px; color: #4f4f4f;">
