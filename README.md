@@ -1,7 +1,7 @@
 <!-- profile README – last updated Jun 2025 -->
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/Urvil-Dhanani/Urvil-Dhanani/main/urvil_banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Urvil-Dhanani/Urvil-Dhanani/main/urvil_banner.PNG" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi, I’m Parva 👋</h1>
  
