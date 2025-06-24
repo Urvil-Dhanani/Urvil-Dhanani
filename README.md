@@ -29,6 +29,29 @@
 - **CV + OCR journey-mapping** – solo project converting shopping screen-recordings into structured datasets.
  
 ---
+
+## 🧠 My Expertise
+
+<table>
+  <tr>
+    <td><b><ins>💡 Generative AI</ins></b></td>
+    <td>Designing agentic workflows 🤖, multimodal bots 🗣️, and content generation engines ✍️.</td>
+  </tr>
+  <tr>
+    <td><b><ins>👁️‍🗨️ Computer Vision</ins></b></td>
+    <td>Extracting insights 📊 and automations ⚙️ from images & videos 🎬.</td>
+  </tr>
+  <tr>
+    <td><b><ins>🗣️ NLP </ins></b></td>
+    <td>Building systems that understand 🤔, generate ✍️, and reason with 🧠 language.</td>
+  </tr>
+  <tr>
+    <td><b><ins>⚙️ MLOps</ins></b></td>
+    <td>Automating ML pipelines 🚀, model deployment ☁️, and monitoring with DevOps best practices.</td>
+  </tr>
+</table>
+
+---
  
 ## 🛠 Tool-belt
  
@@ -43,6 +66,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="LangChain" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="LangGraph" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 </p>
  
 ---
