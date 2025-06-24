@@ -3,7 +3,7 @@
   
   <img src="https://raw.githubusercontent.com/Urvil-Dhanani/Urvil-Dhanani/main/urvil_banner.PNG" alt="Banner" width="100%" />
 </p>
-<h1 align="center">🦚 Hi, I’m Urvil 🦚</h1>
+<h1 align="center">Hi, I’m Urvil 👋</h1>
  
 <p align="center">
   <b>Tech Lead - Gen AI & Data Science Projects</b><br>
@@ -14,6 +14,7 @@
  
 ## 🧑‍💻 Currently building
 - **Next-gen AI agents** for MIA.
+- **No Code Agnetic workflow automation** for MIA 
 - **RAG-2.0 pipeline** → smarter chunking, hybrid BM25 + vector rerankers, latency &lt; 1000 ms for voice/chat.  
 - **Secure API gateway** with key-scoped roles, rate-limits, and usage analytics (FastAPI + PostgreSQL).  
 - **Managed metadata DB** for agent configs, session traces, and audit logs.  
@@ -27,6 +28,7 @@
 - **Twilio SIP ↔ Zoom bridges** – real-time voice calls, live ASR/TTS, S3 call recordings, auto-transcripts.  
 - **QuantumDataLytica “machines”** – pluggable components for workflow-automation marketplace.  
 - **CV + OCR journey-mapping** – solo project converting shopping screen-recordings into structured datasets.
+- **Basic AI Projects** - public repositories for others to learn and fell in love with this domain
  
 ---
 
@@ -90,8 +92,8 @@
  
  
 ## 🤝 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvasheta/) &nbsp;
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:parvasheta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvil/) &nbsp;
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:urvild@gmail.com)
  
 <p align="center">
   
