@@ -3,10 +3,10 @@
   
   <img src="https://raw.githubusercontent.com/Urvil-Dhanani/Urvil-Dhanani/main/urvil_banner.PNG" alt="Banner" width="100%" />
 </p>
-<h1 align="center">Hi, I’m Urvil 👋</h1>
+<h1 align="center">🦚 Hi, I’m Urvil 🦚</h1>
  
 <p align="center">
-  <b>Tech Lead - Gen AI & Data Science Projectsr</b><br>
+  <b>Tech Lead - Gen AI & Data Science Projects</b><br>
   Tech Lead & lead developer of the no-code agent platform <a href="https://supermia.ai" target="_blank">MIA</a>
 </p>
  
