@@ -12,7 +12,7 @@
  
 ---
  
-## 🧑‍💻 Currently building
+## Currently building:
 - **Next-gen AI agents** for MIA.
 - **No Code Agnetic workflow automation** for MIA 
 - **RAG-2.0 pipeline** → smarter chunking, hybrid BM25 + vector rerankers, latency &lt; 1000 ms for voice/chat.  
@@ -21,7 +21,7 @@
  
 ---
  
-## 🚀 What I’ve built
+## What I’ve built:
 - **Bot orchestration @ MIA** – FastAPI + async-Python layer sustaining 100 + concurrent sessions with 99.9 % uptime.  
 - **Multi-LLM router** – dynamic prompt & function-call pipelines across OpenAI, Claude, Gemini, LLaMA.  
 - **RAG ingestion service** – vectorizes PDFs/DOCX/CSV/XLSX, stores in FAISS, retrieves context in &lt; 3000 ms.  
@@ -32,7 +32,7 @@
  
 ---
 
-## 🧠 My Expertise
+## My Expertise:
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
 
 ---
  
-## 🛠 Tool-belt
+## Tool-belt:
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
@@ -74,7 +74,7 @@
  
 ---
  
-## ✨ Highlights
+## Highlights:
 | Year | Milestone |
 |------|-----------|
 | 2025 | Scaled MIA orchestration layer to 100 + live sessions with &lt; 1 % error rate |
@@ -85,7 +85,7 @@
  
 ---
  
-## 📊 GitHub stats
+## GitHub stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Urvil-Dhanani&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="stats" />
 </p>More actions
