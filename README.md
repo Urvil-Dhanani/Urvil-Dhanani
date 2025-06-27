@@ -34,33 +34,6 @@
 
 ## My Expertise:
 
-<div style="font-family: 'Segoe UI', sans-serif; border: 2px solid #0078D7; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <div style="background-color: #0078D7; color: white; text-align: center; padding: 15px; font-size: 22px; font-weight: bold;">
-    🚀 AI Technology Leadership & Data Science Expertise
-  </div>
-  <table style="width: 100%; border-collapse: collapse; font-size: 16px;">
-    <tr style="background-color: #f4f4f4;">
-      <td style="padding: 12px 20px; font-weight: bold; color: #0078D7;"><ins>💡 Generative AI</ins></td>
-      <td style="padding: 12px 20px;">Designing <b>agentic workflows</b> 🤖, <b>multimodal bots</b> 🗣️, and scalable <b>content generation engines</b> ✍️</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 20px; font-weight: bold; color: #0078D7;"><ins>👁️‍🗨️ Computer Vision</ins></td>
-      <td style="padding: 12px 20px;">Extracting <b>insights</b> 📊 and building <b>automation pipelines</b> ⚙️ from images & videos 🎬</td>
-    </tr>
-    <tr style="background-color: #f4f4f4;">
-      <td style="padding: 12px 20px; font-weight: bold; color: #0078D7;"><ins>🗣️ NLP</ins></td>
-      <td style="padding: 12px 20px;">Creating systems that <b>understand</b> 🤔, <b>generate</b> ✍️, and <b>reason with language</b> 🧠</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 20px; font-weight: bold; color: #0078D7;"><ins>⚙️ MLOps</ins></td>
-      <td style="padding: 12px 20px;">Streamlining <b>ML pipelines</b> 🚀, orchestrating <b>cloud deployments</b> ☁️, and enabling <b>end-to-end monitoring</b> with DevOps excellence</td>
-    </tr>
-  </table>
-</div>
-
-
-
-
 <table>
   <tr>
     <td><b><ins>💡 Generative AI</ins></b></td>
